@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "a389cd6f-a4d1-4472-a95a-65b12b58ef5a",
+    "name": "Jonathan Oberbrunner",
+    "phone": "433-549-4451 x07622",
+    "email": "Clemmie.Hoppe@yahoo.com",
+    "job": "Internal Usability Officer"
+  },
+  {
+    "id": "55456140-a5a0-434a-9a18-49311802ba65",
+    "name": "Jan Gutmann-Bednar III",
+    "phone": "(771) 591-3214 x1188",
+    "email": "Elise42@yahoo.com",
+    "job": "Human Interactions Orchestrator"
+  }
+]
